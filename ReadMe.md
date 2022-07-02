@@ -1,6 +1,6 @@
 <h3>Calculator</h3> 
 <div style="display: inline_block">
-    <img align="center" alt="calculadora" height="200" width="400" src="https://user-images.githubusercontent.com/75695011/177014126-32c187bf-2e6b-4cec-ba13-169723491cc7.jpeg">
+    <img align="center" alt="calculadora" height="200" width="400" src="https://user-images.githubusercontent.com/75695011/177014298-587a459b-19e3-4a78-ba48-d030908a5275.png">
 <hr>
 
 <h3>About the project</h3>
