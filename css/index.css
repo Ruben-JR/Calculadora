@@ -1,0 +1,23 @@
+*{
+       margin: 0%;
+       padding: 0%;
+}
+
+body{
+       font-size: 12px;
+       font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+       margin: 200px;
+       background-color: gray;
+       padding: 1%;
+       border-radius: 10px;
+       border-color: black;
+}
+
+.container-01{
+       margin-top: 5%;
+       margin-left: 5%;
+
+}

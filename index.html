@@ -4,11 +4,52 @@
        <meta charset="UTF-8">
        <meta http-equiv="X-UA-Compatible" content="IE=edge">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="icon" type="image/x-icon" href="img/calculator.png">
        <link rel="stylesheet" media="screen" href="css/index.css"></link>
        <script src="js/index.js"></script>
        <title>Calculadora</title>
 </head>
 <body>
+       <div class="container" id="master">
+              <!--Input para receber os numeros-->
+              <div class="container-01" id="input">
+                     <input type="text" id="campo">
+              </div>
 
+              <!--Numeros e sinais-->
+              <div class="container-02" id="output">
+                     <div class="container-21">
+                            <input type="button" id="sete" value="7">
+                            <input type="button" id="oito" value="8">
+                            <input type="button" id="nove" value="9">
+                            <input type="button" id="deletar" value="DEL">
+                            <input type="button" id="limpar" value="AC">
+                     </div>
+
+                     <div class="container-22">
+                            <input type="button" id="quatro" value="4">
+                            <input type="button" id="cinco" value="5">
+                            <input type="button" id="seis" value="6">
+                            <input type="button" id="multiplicacao" value="*">
+                            <input type="button" id="divisao" value="/">
+                     </div>
+
+                     <div class="container-23">
+                            <input type="button" id="um" value="1">
+                            <input type="button" id="dois" value="2">
+                            <input type="button" id="tres" value="3">
+                            <input type="button" id="mais" value="+">
+                            <input type="button" id="menos" value="-">
+                     </div>
+
+                     <div class="container-23">
+                            <input type="button" id="zero" value="0">
+                            <input type="button" id="ponto" value=".">
+                            <input type="button" id="pi" value="π">
+                            <input type="button" id="ans" value="ANS">
+                            <input type="button" id="igual" value="=">
+                     </div>
+              </div>
+       </div>
 </body>
 </html>
