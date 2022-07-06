@@ -6,11 +6,12 @@
 body{
        font-size: 12px;
        font-family: 'Times New Roman', Times, serif;
+       background-color: grey;
 }
 
 .container{
        margin: 200px;
-       background-color: gray;
+       background-color: white;
        padding: 1%;
        border-radius: 10px;
        border-color: black;
