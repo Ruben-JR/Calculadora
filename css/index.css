@@ -6,19 +6,45 @@
 body{
        font-size: 12px;
        font-family: 'Times New Roman', Times, serif;
-       background-color: grey;
+       background-color: #5e6a7f;
 }
 
 .container{
        margin: 200px;
-       background-color: white;
+       background-color: #f3f2f7;
        padding: 1%;
        border-radius: 10px;
        border-color: black;
 }
 
-.container-01{
-       margin-top: 5%;
-       margin-left: 5%;
+.container-1{
+       height: 30px;
+       width: 60px;
+       margin-top: 1%;
+       margin-left: 38%;
+       border: none;
+}
 
+.container-2_1{
+       height: 30px;
+       width: 70px;
+       margin-left: 38%;
+       /*position: relative;
+       display: inline;*/
+}
+
+.container-2_2{
+       margin-left: 38%;
+}
+
+.container-2_3{
+       margin-left: 38%;
+}
+
+.container-2_4{
+       margin-left: 38%;
+}
+
+.container-2_5{
+       margin-left: 38%;
 }
