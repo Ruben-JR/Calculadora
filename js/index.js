@@ -1,7 +1,8 @@
 function clear(){
+     document.getElementById(campo).innerHTML = "";
 
 }
 
-function calcula(s1, s2){
+function calcula(){
 
 }
